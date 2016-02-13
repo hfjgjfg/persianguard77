@@ -223,6 +223,7 @@ function create_config( )
     "download_media",
     "invite",
     "all",
+    "spammer5",
     "leave_ban",
     "admin",
     "antifosh",
